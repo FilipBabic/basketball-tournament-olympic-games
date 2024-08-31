@@ -1,0 +1,12 @@
+{
+  "name": "basketball-tournament-task-main",
+  "version": "1.0.0",
+  "description": "Codebehind Praksa - Uvodni Zadatak",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Filip Babić",
+  "license": "MIT"
+}
